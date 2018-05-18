@@ -1,0 +1,48 @@
+@charaset UTF-8;
+.head {
+    font-size: 40px;
+    color: chocolate;
+}
+
+#bottom {
+    font font-size: 100px;
+    color: blue
+}
+
+p {
+    color: red;
+}
+
+p {
+    color: aqua;
+}
+
+h1 {
+    color: blueviolet;
+}
+
+a:link {
+    color: #333;
+    text-decoration: under underline;
+    background: yellow;
+}
+
+a:visited {
+    color: #333;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: #f00;
+    text-decoration: none;
+    background: none;
+    
+}
+hr{
+    width: 100%;
+}
+
+a:active {
+    color: #333;
+    text-decoration: none;
+}
